@@ -1,2 +1,1 @@
-# ReactOnTheJob
-『りあクト！ TypeScriptで極める現場のReact開発』のサンプルコードページ
+React + Redux + Typescript + 非同期処理 のボイラーテンプレート
